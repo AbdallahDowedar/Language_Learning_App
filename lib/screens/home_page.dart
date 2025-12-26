@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:toku_app/components/category.dart';
 import 'package:toku_app/screens/Family_Members.dart';
 import 'package:toku_app/screens/Numbers_page.dart';
-import 'package:toku_app/screens/phrases.dart';
 
 class HomePage extends StatelessWidget {
   @override
